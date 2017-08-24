@@ -5,5 +5,5 @@ Takes exported trello JSON and turns it into a different format. Right now it ou
 Run the index file with `node` to output each list:
 
 ```bash
-$ nodex index.js
+$ nodeindex.js
 ```
